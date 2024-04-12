@@ -1,4 +1,5 @@
 # 📟git-practice-team3
+
 coming soon git 실습을 위한 레포입니다.<br>
 조원 분들은 아래 가이드에 따라서 실습을 진행해주세요.
 
@@ -14,12 +15,12 @@ coming soon git 실습을 위한 레포입니다.<br>
 7. pull request 제목과 설명을 작성하고, 멘토 및 나머지 팀원들을 리뷰어로 지정하여 변경 사항을 검토할 수 있도록 권한을 부여합니다.
 8. 프로젝트 관리자가 변경 사항을 병합할 수 있도록 pull request를 제출합니다.
 
-
-
 <br>
 
 ## 🦕 Member
+
 ### Team
+
 <table>
 <tr>
 <td align="center"> 멘토 </td>
@@ -28,12 +29,11 @@ coming soon git 실습을 위한 레포입니다.<br>
 <td align="center"> 멘티</td>
 <td align="center"> 멘티</td>
 
-
 </tr>
   <tr>
     <td align="center" width="120px">
      <a href="https://github.com/Ogu1208" target="_blank">
-        <img src="https://github.com/Ogu1208.png" alt="김민아" />
+        <img src="https://github.com/Ogu1208.png" alt="김민아1122" />
       </a>
     </td>
      <td align="center" width="120px">
