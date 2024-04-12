@@ -70,8 +70,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td> 
      <td align="center">
-      <a href="https://github.com" target="_blank">
-      🦕
+      <a href="https://github.com/olcong" target="_blank">
+      이재빈
       </a>
        <td align="center">
       <a href="https://github.com" target="_blank">
