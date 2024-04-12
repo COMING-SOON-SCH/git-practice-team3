@@ -80,7 +80,7 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
      <td align="center">
       <a href="https://github.com/pigi0420" target="_blank">
-       🦕
+       배민지
       </a>
     </td>
   </tr>
